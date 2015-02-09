@@ -1,2 +1,0 @@
-# Code
-Códigos Essenciais
